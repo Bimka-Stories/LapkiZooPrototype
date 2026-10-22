@@ -1,0 +1,44 @@
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.exe.config
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.exe
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.pdb
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csproj.AssemblyReference.cache
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.AdminForm.resources
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.ClientsForm.resources
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.LoginForm.resources
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.MainForm.resources
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.OrdersForm.resources
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.ProductsForm.resources
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.Properties.Resources.resources
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csproj.GenerateResource.cache
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csproj.CoreCompileInputs.cache
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.exe
+D:\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.pdb
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.exe.config
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.exe
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.pdb
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.exe
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.pdb
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csprojResolveAssemblyReference.cache
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.AdminForm.resources
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.ClientsForm.resources
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.LoginForm.resources
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.MainForm.resources
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.OrdersForm.resources
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.ProductsForm.resources
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.Properties.Resources.resources
+Z:\ИСПк-033\Моделирование\Андреянова Ольга\моделирование\лапкиии2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csproj.GenerateResource.Cache
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.exe.config
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.exe
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.pdb
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csproj.AssemblyReference.cache
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.AdminForm.resources
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.ClientsForm.resources
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.LoginForm.resources
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.MainForm.resources
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.OrdersForm.resources
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.ProductsForm.resources
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.Properties.Resources.resources
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csproj.GenerateResource.cache
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csproj.CoreCompileInputs.cache
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.exe
+D:\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.pdb
