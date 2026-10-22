@@ -1,0 +1,15 @@
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.exe.config
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.exe
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\bin\Debug\LapkiZooPrototype.pdb
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csproj.AssemblyReference.cache
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.AdminForm.resources
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.ClientsForm.resources
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.LoginForm.resources
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.MainForm.resources
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.OrdersForm.resources
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.ProductsForm.resources
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.Properties.Resources.resources
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csproj.GenerateResource.cache
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.csproj.CoreCompileInputs.cache
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.exe
+C:\Users\kseni\OneDrive\Рабочий стол\лапки\лапки2\LapkiZooPrototype\LapkiZooPrototype\obj\Debug\LapkiZooPrototype.pdb
